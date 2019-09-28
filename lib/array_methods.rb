@@ -1,6 +1,8 @@
 def find_element_index(array, value_to_find)
-if 
-  array.index (6)
+  array.index (2)
+  if array.index(2) == 0 
+    do 
+      array.index ()
     
   end
 
