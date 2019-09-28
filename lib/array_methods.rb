@@ -1,12 +1,9 @@
 def find_element_index(array, value_to_find)
- array.index (500)
+if array.index (2)
+  do array.index (500)
 
 end
 
-def find_element_index(array, value_to_find)
- array.index ("hill,500")
-
-end
 
 def find_max_value(array)
   array.max
